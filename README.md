@@ -1,4 +1,4 @@
-### Check this tutorial : 
+### Check this tutorial : https://youtu.be/aC13Qna-3cA
 
 ### Environment setup to run FLorence-2 on Windows:
         pip install torch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 --index-url https://download.pytorch.org/whl/cu121
