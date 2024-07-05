@@ -10,23 +10,22 @@
         pip install ninja
         pip install flash_attn  # not on windows
   
-  #####  Download wheel file from : https://github.com/bdashore3/flash-attention/releases
-          pip install flash_attn-2.5.9.post1+cu122torch2.2.2cxx11abiFALSE-cp311-cp311-win_amd64.whl
-          
-          pip install einops
-          pip install accelerate
-          pip install peft
-          pip install matplotlib
+        Download wheel file from : https://github.com/bdashore3/flash-attention/releases
+        pip install flash_attn-2.5.9.post1+cu122torch2.2.2cxx11abiFALSE-cp311-cp311-win_amd64.whl  
+        pip install einops
+        pip install accelerate
+        pip install peft
+        pip install matplotlib
 
 
-  ### For Dataset Prepration:  Check data_prep.ipynb 
+  ##### For Dataset Prepration:  Check data_prep.ipynb 
 
-  ### For fine tuning florence2 for object detection task:  fine_tuning_florence2.ipynb
-  Fine tuned Trained model is available in model_checkpoints folder
+  ##### For fine tuning florence2 for object detection task:  fine_tuning_florence2.ipynb
+  (Fine tuned Trained model is available in model_checkpoints folder)
 
-  ### For Inference: test.ipynb
+  ##### For Inference: test.ipynb
 
-  Output image:
+  ##### Output image:
 
 ![image](https://github.com/AarohiSingla/Florence-2-Fine-tuning/assets/60029146/4a2d0a8d-de45-4bd6-b31a-18a557c3c8a7)
 
