@@ -1,14 +1,14 @@
 ### Check this tutorial : 
 
 ### Environment setup to run FLorence-2 on Windows:
-  pip install torch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 --index-url https://download.pytorch.org/whl/cu121
-  
-  pip install transformers
-  pip install timm
-  pip install packaging
-  pip install wheel
-  pip install ninja
-  pip install flash_attn  # not on windows
+        pip install torch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 --index-url https://download.pytorch.org/whl/cu121
+        
+        pip install transformers
+        pip install timm
+        pip install packaging
+        pip install wheel
+        pip install ninja
+        pip install flash_attn  # not on windows
   
   #####  Download wheel file from : https://github.com/bdashore3/flash-attention/releases
   pip install flash_attn-2.5.9.post1+cu122torch2.2.2cxx11abiFALSE-cp311-cp311-win_amd64.whl
