@@ -11,12 +11,12 @@
         pip install flash_attn  # not on windows
   
   #####  Download wheel file from : https://github.com/bdashore3/flash-attention/releases
-  pip install flash_attn-2.5.9.post1+cu122torch2.2.2cxx11abiFALSE-cp311-cp311-win_amd64.whl
-  
-  pip install einops
-  pip install accelerate
-  pip install peft
-  pip install matplotlib
+          pip install flash_attn-2.5.9.post1+cu122torch2.2.2cxx11abiFALSE-cp311-cp311-win_amd64.whl
+          
+          pip install einops
+          pip install accelerate
+          pip install peft
+          pip install matplotlib
 
 
   ### For Dataset Prepration:  Check data_prep.ipynb 
